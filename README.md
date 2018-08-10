@@ -4,6 +4,8 @@ AI - Generative Adversarial Network
 
 # GAN
 
+![GANImage](/assets/gan_diagram.png)
+
 This project is part of **Udacity´s Artificial Intelligence Nanodegree Program**. Here you will find my personal solution to the challenge. The following project can be run using a Local Machine or using an external GPU (Solution provided by **Amazon Web Services** is recommended). Next, you can follow Udacitys instructions to install the necessary dependencies on a local machine or on AWS.
 
 In this project, we train a **Geberative Adversarial Network** with it´s own generator and discriminator networks. We also set up the losses and optimizers which requires something new since we need to train the networks in parallel. I've included a notebook with exercises where you can check the implementation of the network and another notebook with solutions.
